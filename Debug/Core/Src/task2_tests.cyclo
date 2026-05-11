@@ -1,0 +1,6 @@
+../Core/Src/task2_tests.c:18:6:Run_Task2_Tests	1
+../Core/Src/task2_tests.c:34:6:Test_West_East_Turn	1
+../Core/Src/task2_tests.c:46:6:Test_West_East_Transition	1
+../Core/Src/task2_tests.c:58:6:Test_North_South_Turn	1
+../Core/Src/task2_tests.c:70:6:Test_North_South_Transition	1
+../Core/Src/task2_tests.c:81:6:Test_No_Lane_Traffic_Allowed	1

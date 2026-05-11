@@ -1,0 +1,9 @@
+../Core/Src/task1.c:29:6:Toggle_Freq	1
+../Core/Src/task1.c:39:6:Pedestrian_Delay	1
+../Core/Src/task1.c:48:6:Walking_Delay	1
+../Core/Src/task1.c:57:6:No_Traffic_Allowed	1
+../Core/Src/task1.c:72:6:Allow_Cars_Turn	1
+../Core/Src/task1.c:87:6:Cars_Turn_Transition	1
+../Core/Src/task1.c:102:6:Allow_Pedestrians_Turn	1
+../Core/Src/task1.c:121:6:Pedestrian_Switch_Clicked	1
+../Core/Src/task1.c:142:6:Run_Task1	2

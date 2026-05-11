@@ -1,0 +1,10 @@
+../Core/Src/io_shield_func_tests.c:25:6:Run_IO_Shield_Func_Tests	1
+../Core/Src/io_shield_func_tests.c:46:6:Test_Send_Register_U1	1
+../Core/Src/io_shield_func_tests.c:65:6:Test_Send_Register_U2	1
+../Core/Src/io_shield_func_tests.c:84:6:Test_Send_Register_U3	1
+../Core/Src/io_shield_func_tests.c:102:6:Test_Turn_Off_All_Lights	1
+../Core/Src/io_shield_func_tests.c:123:6:Test_PL2_Switch_Is_Hit	2
+../Core/Src/io_shield_func_tests.c:148:6:Test_TL1_Car_Switch_Is_On	2
+../Core/Src/io_shield_func_tests.c:173:6:Test_TL2_Car_Switch_Is_On	2
+../Core/Src/io_shield_func_tests.c:198:6:Test_TL3_Car_Switch_Is_On	2
+../Core/Src/io_shield_func_tests.c:223:6:Test_TL4_Car_Switch_Is_On	2

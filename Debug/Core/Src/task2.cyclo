@@ -1,0 +1,9 @@
+../Core/Src/task2.c:31:6:Green_Delay	1
+../Core/Src/task2.c:40:6:West_East_Turn	1
+../Core/Src/task2.c:55:6:West_East_Transition	1
+../Core/Src/task2.c:70:6:North_South_Turn	1
+../Core/Src/task2.c:85:6:North_South_Transition	1
+../Core/Src/task2.c:100:6:No_Lane_Traffic_Allowed	1
+../Core/Src/task2.c:117:6:Set_Lane_Traffic	5
+../Core/Src/task2.c:155:6:Initialize_Traffic	1
+../Core/Src/task2.c:169:6:Run_Task2	12

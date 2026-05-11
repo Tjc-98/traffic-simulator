@@ -1,0 +1,7 @@
+../Core/Src/io_shield_func.c:29:6:Send_Register_U1_U2_U3	2
+../Core/Src/io_shield_func.c:48:6:Turn_Off_All_Lights	1
+../Core/Src/io_shield_func.c:59:6:PL2_Switch_Is_Hit	2
+../Core/Src/io_shield_func.c:71:6:TL1_Car_Switch_Is_On	2
+../Core/Src/io_shield_func.c:83:6:TL2_Car_Switch_Is_On	2
+../Core/Src/io_shield_func.c:95:6:TL3_Car_Switch_Is_On	2
+../Core/Src/io_shield_func.c:107:6:TL4_Car_Switch_Is_On	2

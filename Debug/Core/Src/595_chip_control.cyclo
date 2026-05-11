@@ -1,0 +1,6 @@
+../Core/Src/595_chip_control.c:19:6:Set_595_Reset_Pin	1
+../Core/Src/595_chip_control.c:27:6:Reset_595_Reset_Pin	1
+../Core/Src/595_chip_control.c:35:6:Set_595_Latch	1
+../Core/Src/595_chip_control.c:43:6:Reset_595_Latch	1
+../Core/Src/595_chip_control.c:51:6:Enable_Shift_Register	1
+../Core/Src/595_chip_control.c:59:6:Disable_Shift_Register	1
